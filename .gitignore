@@ -1,0 +1,29 @@
+
+# NetBeans / IDE
+/nbproject/
+/build/
+/dist/
+/out/
+
+
+/target/
+/*.iml
+/.idea/
+/.vscode/
+test
+build.xml
+manifest.mf
+notas.txt
+.github
+
+# Compilados
+*.class
+*.jar
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Credenciales
+*.keystore
+.env
